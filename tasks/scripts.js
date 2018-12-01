@@ -39,5 +39,5 @@ gulp.task('scripts', () => {
         }))
         .pipe(uglify({compress: {properties: false}, output: {'quote_kyes': true}}))
         .pipe(gulp.dest('server/public/js'))
-        .pipe(gulpif(args.watch, liveraload()))
+        .pipe(gulpif(args.watch, livereload()))
 })
