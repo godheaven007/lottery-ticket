@@ -19,5 +19,19 @@
   "bugs": {
     "url": "https://github.com/godheaven007/lottery-ticket/issues"
   },
-  "homepage": "https://github.com/godheaven007/lottery-ticket#readme"
+  "homepage": "https://github.com/godheaven007/lottery-ticket#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-if": "^2.0.2",
+    "gulp-livereload": "^3.8.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.1.0",
+    "gulp-util": "^3.0.8",
+    "vinyl-named": "^1.1.0",
+    "webpack": "^2.2.1",
+    "webpack-stream": "^3.2.0",
+    "yargs": "^7.0.2"
+  }
 }
