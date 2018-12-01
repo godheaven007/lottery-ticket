@@ -1,0 +1,23 @@
+{
+  "name": "lottery-ticket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godheaven007/lottery-ticket.git"
+  },
+  "keywords": [
+    "ticket",
+    "es6"
+  ],
+  "author": "xusf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godheaven007/lottery-ticket/issues"
+  },
+  "homepage": "https://github.com/godheaven007/lottery-ticket#readme"
+}
